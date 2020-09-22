@@ -5,7 +5,7 @@ DinoDroid
 
 Dataset is at https://drive.google.com/file/d/18CiCNq04uKsKUqjKialc15OFDVE0JRa_/view?usp=sharing
 
-It needs keras and uiautomator to run.
+It needs keras, uiautomator, and gensim to run.
 - keras 2.2.4
 - uiautomator https://github.com/xiaocong/uiautomator
 - gensim 3.8.0
