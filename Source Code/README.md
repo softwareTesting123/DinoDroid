@@ -1,5 +1,5 @@
 # Source code
 
-just run: 
+Just run: 
 
 python runTrain-DDQN-muliThread-half.py
