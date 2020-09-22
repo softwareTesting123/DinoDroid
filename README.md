@@ -1,4 +1,4 @@
-DinoDroid
+# DinoDroid
 ===========
 
 ## DinoDroid is a tool that can automatically reproduce android bugs.
