@@ -1,6 +1,7 @@
 # DinoDroid
 
 DinoDroid is a tool that can automatically reproduce android bugs.
+DinoDroid will update next week.
 
 ## Dataset
 
