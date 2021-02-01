@@ -8,6 +8,10 @@
 
 3 times Crash.xlsx
 
+## 3 times Crash pairwise comparison
+
+3 times Crash pairwise comparison.xlsx
+
 ## SYstem level Crash Filter
 
 DinoDroid disables system level crashes by omitting crash with below logs.
@@ -38,15 +42,19 @@ timeout 1h ruby /SPACE/stoat/Stoat-master/Stoat/bin/run_stoat_testing.rb --model
 ## logs:
 
 Monkey:
-
+https://drive.google.com/file/d/1Kkv5DYZX7gr_witGZR-e5Mjam7ccac-v/view?usp=sharing
 
 Sapienz:
-
+https://drive.google.com/file/d/1Pt1ROyZwjlaXrz8WKGzTeipb0Ts4T_su/view?usp=sharing
 
 Stoat:
 
 
 QBE:
 
+https://drive.google.com/file/d/1026EdjzBUXWIvyxO2C6qQuEa81fLCTAs/view?usp=sharing
+
 DinoDroid:
 
+https://drive.google.com/file/d/1QAEJaBm6dbJ65ehMyFpOZ6NCYzF-ured/view?usp=sharing     (log)
+https://drive.google.com/file/d/1Ek25TnMTP3n2mmtwwY0ap-wh3Xgv8Em-/view?usp=sharing    (dataset and model)
