@@ -2,7 +2,7 @@
 
 DinoDroid is a tool that can automatically reproduce android bugs.
 
-[Source Code](https://drive.google.com/file/d/1gCszF_CN7SUcq6_fWkU6t5Oz3TRRRNTk/view?usp=sharing) is ready.
+[Source Code and Tool](https://drive.google.com/file/d/1gCszF_CN7SUcq6_fWkU6t5Oz3TRRRNTk/view?usp=sharing) is ready. Please check the readme in the downloaded folder.
 
 I will build a new virtual machine to test the source code in an independent environment before Feb 5, 2021.
 
