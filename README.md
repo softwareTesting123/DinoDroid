@@ -14,6 +14,21 @@ Dataset is at https://drive.google.com/file/d/18CiCNq04uKsKUqjKialc15OFDVE0JRa_/
 ## Pre-requirements
 
 It needs keras, uiautomator, and gensim to run.
-- keras 2.2.4
-- uiautomator https://github.com/xiaocong/uiautomator
-- gensim 3.8.0
+
+library Versions:
+
+python 2.7
+
+python -m pip install –user pip==19.1.1
+
+python -m pip install –user genism==3.8.0
+
+python -m pip install –user scipy==1.2.1
+
+python -m pip install –user numpy==1.16.4
+
+python -m pip install –user keras==2.2.4
+
+python -m pip install -user tensorflow==1.5.0
+
+python -m pip install -user uiautomator==1.0.2
