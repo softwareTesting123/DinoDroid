@@ -1,11 +1,12 @@
 # DinoDroid
 
 DinoDroid is a tool that can automatically reproduce android bugs.
-DinoDroid will update in the first week of Feb 2020.
 
-Evaluation results and data set have been completed updated.
-Source code will be soon to update.
+[Source Code](https://drive.google.com/file/d/1gCszF_CN7SUcq6_fWkU6t5Oz3TRRRNTk/view?usp=sharing)
 
+I will build a new virtual machine to test the source code in an independent environment before Feb 5, 2021.
+
+The new virtual machine will be also available in public at that time.
 ## Dataset
 
 Dataset is at https://drive.google.com/file/d/18CiCNq04uKsKUqjKialc15OFDVE0JRa_/view?usp=sharing
