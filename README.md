@@ -1,6 +1,6 @@
 # DinoDroid
 
-DinoDroid is a tool that can automatically reproduce android bugs.
+DinoDroid is a tool that can automatically test android bugs.
 
 [Source Code and Tool](https://drive.google.com/file/d/1gCszF_CN7SUcq6_fWkU6t5Oz3TRRRNTk/view?usp=sharing) are ready. Please check the readme in the downloaded folder.
 
