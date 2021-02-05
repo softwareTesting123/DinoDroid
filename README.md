@@ -10,7 +10,7 @@ The new virtual machine will be also available to the public at that time.
 
 I postponed the virtual machine releasing to a little late date because I have some urgent things to handle. Sorry about that.
 
-I have finished my virtual box machine. It is exporting and uploading. This [video](https://youtu.be/XP1sAaau8OQ) shows how to use this vitual box.
+I have finished my virtual box machine. It is being exported and uploaded. This [video](https://youtu.be/XP1sAaau8OQ) shows how to use this vitual box.
 
 ## Dataset
 
