@@ -6,7 +6,7 @@ DinoDroid is a tool that can automatically test android bugs.
 
 I will try to build a new virtual machine to test the source code in an independent environment before the end of Feb 8, 2021. 
 
-The new virtual machine will be also available in public at that time.
+The new virtual machine will be also available on public at that time.
 
 I postponed the virtual machine releasing to a little late date because I have some urgent things to handle. Sorry about that.
 
