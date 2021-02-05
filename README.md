@@ -4,9 +4,13 @@ DinoDroid is a tool that can automatically test android bugs.
 
 [Source Code and Tool](https://drive.google.com/file/d/1gCszF_CN7SUcq6_fWkU6t5Oz3TRRRNTk/view?usp=sharing) are ready. Please check the readme in the downloaded folder.
 
-I will build a new virtual machine to test the source code in an independent environment before Feb 5, 2021.
+I will try to build a new virtual machine to test the source code in an independent environment before the end of Feb 8, 2021. 
 
 The new virtual machine will be also available in public at that time.
+
+I postponed the virtual machine releasing to a little late date because I have some urgent things to handle. Sorry about that.
+
+
 ## Dataset
 
 Dataset is at https://drive.google.com/file/d/18CiCNq04uKsKUqjKialc15OFDVE0JRa_/view?usp=sharing
