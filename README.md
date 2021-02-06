@@ -4,13 +4,15 @@ DinoDroid is a tool that can automatically test android bugs.
 
 [Source Code and Tool](https://drive.google.com/file/d/1gCszF_CN7SUcq6_fWkU6t5Oz3TRRRNTk/view?usp=sharing) are ready. Please check the readme in the downloaded folder.
 
-I will try to build a new virtual machine to test the source code in an independent environment before the end of Feb 8, 2021. 
+Prepare a desktop computer with the following recommended configuration: 32GB memory, 8 kernels cpu, more than 50 GB free disk.
 
-The new virtual machine will be also available to the public at that time.
+Download 7 GB [VirtualBox image](https://drive.google.com/file/d/1-TkJZyVm9raFH5dvVLmHQYMDDC8_0aNc/view?usp=sharing). The root password of this image is test_xxx. There is a [Demo video](https://youtu.be/XP1sAaau8OQ) for using VM.
 
-I postponed the virtual machine releasing to a little late date because I have some urgent things to handle. Sorry about that.
+Use VirtualBox(we use 5.1.38) to import the VirtualBox image.
 
-I have finished my virtual box machine. It is being exported and uploaded. This [video](https://youtu.be/XP1sAaau8OQ) shows how to use this vitual box.
+The emulator in VirtualBox is much slower than a physical machine. So it can only be used to be a demo or guidance for configuration.
+
+I will write detailed instructions and polish the readme before the end of Feb 8, 2021.
 
 ## Dataset
 
