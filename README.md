@@ -18,12 +18,9 @@ DinoDroid is a software tool to automatically test android crashes.
 ## Run DinoDroid
 
 1. Open the virtualbox image.
-2. Start an android emulator. Wait (for minutes) until it is totally launched.
+2. Start an android emulator. Wait (for minutes) until it is totally launched. Notice that we disable the automated lanuch of emulator in the code in this image because it is so slow. 
 
-```sh
-   emulator -avd testAVD -wipe-data
-```
-Use eclipse to launch emulator is another option. See [Demo video](https://youtu.be/XP1sAaau8OQ).
+   Use eclipse to launch emulator see [Demo video](https://youtu.be/XP1sAaau8OQ).
 
 3. Enter the Artifact folder, in which we have 64 Apps in dataset.
 
@@ -102,6 +99,9 @@ python -m pip install -user uiautomator==1.0.2
 python -m pip install --user objgraph
 
 python -m pip install –-user psutil
+
+
+You can build the execution environment following this [instruction](https://drive.google.com/file/d/15-MAENDHUPBoxGG6SnSZLITUIlMZyHpx/view?usp=sharing).
 
 ## Need to configure android path in setting
 
