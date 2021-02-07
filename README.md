@@ -6,7 +6,7 @@ A Quick YouTube Demo of DinoDroid: https://youtu.be/SQwg9Sgcjl0
 
 # Source Code Download
 
-[Source Code and Tool](https://drive.google.com/file/d/1gCszF_CN7SUcq6_fWkU6t5Oz3TRRRNTk/view?usp=sharing) are ready. Please check the readme in the downloaded folder or `Run DinoDroid` below.
+[Source Code and Tool](https://drive.google.com/file/d/1gCszF_CN7SUcq6_fWkU6t5Oz3TRRRNTk/view?usp=sharing) are ready. Please check the readme in the downloaded folder or check `Run DinoDroid` below.
 
 # Run DinoDroid Using a VirtualBox Image
 
