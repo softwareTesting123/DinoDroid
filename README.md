@@ -125,17 +125,23 @@ Time(Sec):3600
 
 The coverage result in /Result:
 
+```sh
+
 XXX_coverage_0.txt
 
 XXX_coverage_1.txt
 
 XXX_coverage_2.txt
 
+```
+
 XXX is the app source code folder name
 
 ## Crash Result
 
 The crash result in /Result:
+
+```sh
 
 XXX_crash_0.txt
 
@@ -145,19 +151,28 @@ XXX_crash_1.txt
 
 XXX_crash_ith.txt
 
+```
+
 XXX is the app source code folder name
 
 ## Samples
 
 Every sample in the training and testing will be recorded in /Result:
 
+```sh
+
 xxx_trainRecord_              means the current sample 
 
 xxx_trainRecordOther_         means the sample in memory
 
+
+```
+
 Users may use them to understand how our model works.
 
 ## Event Flow Graph in /Result
+
+```sh
 
 /Result/xxx_record_0.xml
 
@@ -165,11 +180,17 @@ Users may use them to understand how our model works.
 
 /Result/xxx_record_2.xml
 
+```
+
 XXX is the app source code folder name
 
 ## Trained Model in /model (Generate after the train)
 
+```sh
+
 keras_model_half.h5
+
+```
 
 Two trained model (train 32 apps for each) can be used directly to test.
 
