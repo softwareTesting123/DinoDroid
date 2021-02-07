@@ -77,7 +77,7 @@ Dataset is at https://drive.google.com/file/d/18CiCNq04uKsKUqjKialc15OFDVE0JRa_/
 
 # Pre-requirements of Tool
 
-We have tested the tool on ubuntu 16.04.
+We have tested DinoDroid on ubuntu 16.04.
 
 ## Library Versions:
 
