@@ -1,7 +1,8 @@
 # DinoDroid
 
 DinoDroid is a software tool to automatically test android crashes.
-A Qick YouTube Demo of DinoDroid: https://youtu.be/SQwg9Sgcjl0
+
+A Quick YouTube Demo of DinoDroid: https://youtu.be/SQwg9Sgcjl0
 
 # Source Code Download
 
@@ -19,7 +20,7 @@ A Qick YouTube Demo of DinoDroid: https://youtu.be/SQwg9Sgcjl0
 ## Run DinoDroid
 
 1. Open the virtualbox image.
-2. Start an android emulator. Wait (for minutes) until it is totally launched. Notice that we disable the automated lanuch of emulator in the code in this image because it is so slow. 
+2. Start an android emulator. Wait (for minutes) until it is totally launched. Notice that we disable the automated launch of the emulator in this image because it is so slow. 
 
    Use eclipse to launch emulator see [Demo video](https://youtu.be/XP1sAaau8OQ).
 
@@ -120,7 +121,7 @@ Time(Sec):3600
 
 ## Coverage Results
 
-The coverage result in /Result:
+The coverage results in /Result:
 
 ```sh
 
@@ -134,9 +135,9 @@ XXX_coverage_2.txt
 
 XXX is the app source code folder name
 
-## Crash Result
+## Crash Results
 
-The crash result in /Result:
+The crash results in /Result:
 
 ```sh
 
