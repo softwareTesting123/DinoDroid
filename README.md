@@ -190,7 +190,7 @@ keras_model_half.h5
 
 ```
 
-Two trained models (train 32 apps for each) can be used directly to test.
+Two trained models (train 32 apps for each) can be used directly to and run testing by copying one of them into /model.
 
 One is [here](https://drive.google.com/file/d/1GzWX9OeAC4vnuMyHA6eBq3yOSShhRoFX/view?usp=sharing). 
 
