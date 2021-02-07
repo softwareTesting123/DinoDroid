@@ -4,7 +4,7 @@ DinoDroid is a softare tool to automatically test android crashes.
 
 # Source Code Download
 
-[Source Code and Tool](https://drive.google.com/file/d/1gCszF_CN7SUcq6_fWkU6t5Oz3TRRRNTk/view?usp=sharing) are ready. Please check the readme in the downloaded folder.
+[Source Code and Tool](https://drive.google.com/file/d/1gCszF_CN7SUcq6_fWkU6t5Oz3TRRRNTk/view?usp=sharing) are ready. Please check the readme in the downloaded folder or `Run DinoDroid` below.
 
 # Run DinoDroid Using a VirtualBox Image
 
@@ -103,6 +103,19 @@ python -m pip install --user objgraph
 
 python -m pip install –-user psutil
 
+## Need to configure android path in setting
+
+```sh
+Adb Path:/home/xxx/adt-bundle-linux-x86_64-20140702/sdk/platform-tools/adb
+AVD Name:testAVD
+AVD Emulator Path:/home/xxx/adt-bundle-linux-x86_64-20140702/sdk/tools/emulator
+AAPT Path:/home/xxx/adt-bundle-linux-x86_64-20140702/sdk/build-tools/23.0.3/aapt
+Emma Path:/home/xxx/adt-bundle-linux-x86_64-20140702/sdk/tools/lib/emma.jar
+Time(Sec):3600
+```
+
+
+
 ## A detailed instruction about how to configure environment.
 
 
@@ -111,8 +124,11 @@ python -m pip install –-user psutil
 ## Coverage Result
 
 The coverage result in /Result:
+
 XXX_coverage_0.txt
+
 XXX_coverage_1.txt
+
 XXX_coverage_2.txt
 
 XXX is the app source code folder name
@@ -120,28 +136,43 @@ XXX is the app source code folder name
 ## Crash Result
 
 The crash result in /Result:
+
 XXX_crash_0.txt
+
 XXX_crash_1.txt
+
 ...
+
 XXX_crash_ith.txt
 
 XXX is the app source code folder name
 
 ## Samples
 
-Every sample in the training and testing will be recorded in \Result:
+Every sample in the training and testing will be recorded in /Result:
+
 xxx_trainRecord_              means the current sample 
+
 xxx_trainRecordOther_         means the sample in memory
+
 Users may use them to understand how our model works.
 
 ## Event Flow Graph in /Result
+
 /Result/xxx_record_0.xml
+
 /Result/xxx_record_1.xml
+
 /Result/xxx_record_2.xml
 
 XXX is the app source code folder name
 
 ## Trained Model in /model (Generate after the train)
+
 keras_model_half.h5
+
+Two trained model (train 32 apps for each) can be used directly to test.
+
+One is here. Antoher (train with k-9) is here.
 
 
