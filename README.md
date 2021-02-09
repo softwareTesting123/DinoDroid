@@ -74,9 +74,11 @@ Notice that the emulator in VirtualBox is much slower than a physical machine. S
 
 Dataset is at https://drive.google.com/file/d/18CiCNq04uKsKUqjKialc15OFDVE0JRa_/view?usp=sharing
 
+All of apps in the dataset are from [AndroTest](http://bear.cc.gatech.edu/~shauvik/androtest/).
+
 # Pre-requirements of Tool
 
-We have tested DinoDroid on ubuntu 16.04.
+We have tested DinoDroid on ubuntu 16.04 and Android 4.4.2.
 
 ## Library Versions:
 
