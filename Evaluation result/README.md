@@ -56,6 +56,12 @@ https://drive.google.com/file/d/1_5LNGd-kdHHeTRllX5Jd63Y9Ncav4qIn/view?usp=shari
 QBE:
 https://drive.google.com/file/d/1026EdjzBUXWIvyxO2C6qQuEa81fLCTAs/view?usp=sharing
 
+Q-testing:
+https://drive.google.com/file/d/1TsSocRHq38UtLr_cxICe7gr6imkLQ5Xj/view?usp=sharing
+
 DinoDroid:
 https://drive.google.com/file/d/1QAEJaBm6dbJ65ehMyFpOZ6NCYzF-ured/view?usp=sharing     (log)
 https://drive.google.com/file/d/1Ek25TnMTP3n2mmtwwY0ap-wh3Xgv8Em-/view?usp=sharing    (dataset and model)
+ 
+Other backup:
+https://drive.google.com/file/d/1pOyaTLdSGR90IPSL_EumWlfFfxK543c6/view?usp=sharing
