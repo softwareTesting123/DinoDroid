@@ -39,6 +39,9 @@ timeout 1h python /SPACE/Sapienz-unChanged/main.py "$f">sapienze/"$(basename "$f
 Stoat:
 timeout 1h ruby /SPACE/stoat/Stoat-master/Stoat/bin/run_stoat_testing.rb --model_time 0.4h --mcmc_time 0.6h --app_dir "$f" --avd_name testAVD --avd_port 5554 --stoat_port 2000 --project_type ant>stoat/"$(basename "$f")
 
+Q-testing:
+timeout 1h /SPACE/Q-testing/OneDrive-2021-04-08/q-testing-wgx-publish-pyinstaller/main -r /SPACE/Q-testing/OneDrive-2021-04-08/q-testing-wgx-publish-pyinstaller/CONF.txt
+
 ## logs:
 
 Monkey:
@@ -51,10 +54,8 @@ Stoat:
 https://drive.google.com/file/d/1_5LNGd-kdHHeTRllX5Jd63Y9Ncav4qIn/view?usp=sharing
 
 QBE:
-
 https://drive.google.com/file/d/1026EdjzBUXWIvyxO2C6qQuEa81fLCTAs/view?usp=sharing
 
 DinoDroid:
-
 https://drive.google.com/file/d/1QAEJaBm6dbJ65ehMyFpOZ6NCYzF-ured/view?usp=sharing     (log)
 https://drive.google.com/file/d/1Ek25TnMTP3n2mmtwwY0ap-wh3Xgv8Em-/view?usp=sharing    (dataset and model)
