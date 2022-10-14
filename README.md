@@ -1,5 +1,6 @@
 # DinoDroid
 
+
 DinoDroid is a software tool to automatically test android crashes.
 
 A Quick YouTube Demo of DinoDroid: https://youtu.be/SQwg9Sgcjl0
