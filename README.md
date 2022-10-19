@@ -193,10 +193,14 @@ keras_model_half.h5
 
 ```
 
+
+
 Two trained models (train 32 apps for each) can be used directly to and run testing by copying one of them into /model.
 
 One is [here](https://drive.google.com/file/d/1GzWX9OeAC4vnuMyHA6eBq3yOSShhRoFX/view?usp=sharing). 
 
 The other one is [here](https://drive.google.com/file/d/1WMe_ViO0H5jA29-Lz66pwwUTK8jYw_Md/view?usp=sharing).
 
-
+## CopyRight
+The creator keeps the whole copyright of this project and its modified versions.
+Any commercial usage needs to contact the creator.
