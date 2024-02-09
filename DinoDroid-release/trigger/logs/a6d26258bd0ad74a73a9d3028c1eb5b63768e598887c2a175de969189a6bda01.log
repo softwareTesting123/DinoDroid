@@ -1,0 +1,4 @@
+package_name=com.tum.yahtzee
+activity=com.tum.yahtzee.YahtzeeActivity com.tum.yahtzee.GameActivity
+service=
+receiver=

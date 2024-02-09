@@ -1,0 +1,4 @@
+package_name=info.bpace.munchlife
+activity=info.bpace.munchlife.MunchLifeActivity info.bpace.munchlife.SettingsActivity
+service=
+receiver=

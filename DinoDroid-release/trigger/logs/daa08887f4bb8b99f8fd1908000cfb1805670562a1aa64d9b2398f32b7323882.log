@@ -1,0 +1,4 @@
+package_name=hiof.enigma.android.soundboard
+activity=hiof.enigma.android.soundboard.Soundboard
+service=
+receiver=

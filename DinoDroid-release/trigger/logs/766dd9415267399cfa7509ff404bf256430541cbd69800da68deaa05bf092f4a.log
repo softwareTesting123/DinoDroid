@@ -1,0 +1,4 @@
+package_name=com.zoffcc.applications.aagtl
+activity=com.zoffcc.applications.aagtl.aagtl com.zoffcc.applications.aagtl.TextEntryActivity com.zoffcc.applications.aagtl.PostLogEntryActivity
+service=
+receiver=

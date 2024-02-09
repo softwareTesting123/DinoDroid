@@ -1,0 +1,4 @@
+package_name=com.google.android.divideandconquer
+activity=com.google.android.divideandconquer.DivideAndConquerActivity com.google.android.divideandconquer.Preferences
+service=
+receiver=

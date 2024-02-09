@@ -1,0 +1,27 @@
+[EMMA v2.0.5312 report, generated Fri Feb 05 18:11:46 GMT-05:00 2021]
+-------------------------------------------------------------------------------
+OVERALL COVERAGE SUMMARY:
+
+[class, %]	[method, %]	[block, %]	[line, %]	[name]
+47%  (58/123)!	20%  (142/696)!	13%  (2501/19279)!	14%  (594.7/4104)!	all classes
+
+OVERALL STATS SUMMARY:
+
+total packages:	8
+total classes:	123
+total methods:	696
+total executable files:	36
+total executable lines:	4104
+
+COVERAGE BREAKDOWN BY PACKAGE:
+
+[class, %]	[method, %]	[block, %]	[line, %]	[name]
+0%   (0/15)!	0%   (0/133)!	0%   (0/4691)!	0%   (0/864)!	com.nloko.android.syncmypix.graphics
+0%   (0/3)!	0%   (0/23)!	0%   (0/1425)!	0%   (0/252)!	com.nloko.android.syncmypix.namematcher
+0%   (0/1)!	0%   (0/5)!	0%   (0/120)!	0%   (0/20)!	com.nloko.android.syncmypix.views
+17%  (1/6)!	8%   (3/37)!	2%   (15/960)!	3%   (7.2/237)!	com.nloko.android.syncmypix.facebook
+75%  (3/4)!	12%  (3/26)!	3%   (16/567)!	5%   (5/110)!	com.nloko.android.syncmypix.contactutils
+67%  (8/12)!	27%  (29/109)!	16%  (386/2360)!	20%  (113.2/575)!	com.nloko.android
+56%  (44/78)!	29%  (98/341)!	22%  (1956/8777)!	23%  (439.6/1953)!	com.nloko.android.syncmypix
+50%  (2/4)!	41%  (9/22)!	34%  (128/379)!	32%  (29.7/93)!	com.nloko.android.syncmypix.EmmaInstrument
+-------------------------------------------------------------------------------

@@ -1,0 +1,4 @@
+package_name=com.example.amazed
+activity=com.example.amazed.AmazedActivity
+service=
+receiver=

@@ -1,0 +1,4 @@
+package_name=aarddict.android
+activity=aarddict.android.DictionariesActivity aarddict.android.LookupActivity aarddict.android.ArticleViewActivity aarddict.android.Lookup aarddict.android.Article aarddict.android.DictionaryInfoActivity
+service=aarddict.android.DictionaryService
+receiver=

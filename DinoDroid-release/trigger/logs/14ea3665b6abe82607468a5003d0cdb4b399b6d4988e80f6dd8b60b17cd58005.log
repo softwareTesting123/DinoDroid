@@ -1,0 +1,4 @@
+package_name=org.passwordmaker.android
+activity=org.passwordmaker.android.PasswordMakerProForAndroidActivity org.passwordmaker.android.PasswordMakerEditProfile org.passwordmaker.android.PasswordMakerEditFavorites
+service=
+receiver=

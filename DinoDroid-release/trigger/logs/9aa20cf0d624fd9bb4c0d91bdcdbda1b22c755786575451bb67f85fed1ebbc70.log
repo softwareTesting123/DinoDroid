@@ -1,0 +1,4 @@
+package_name=org.scoutant.blokish
+activity=org.scoutant.blokish.SplashScreen org.scoutant.blokish.UI org.scoutant.blokish.Settings org.scoutant.blokish.Help
+service=
+receiver=

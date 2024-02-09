@@ -1,0 +1,4 @@
+package_name=com.templaro.opsiz.aka
+activity=com.templaro.opsiz.aka.AndroidomaticKeyerActivity com.templaro.opsiz.aka.Help com.templaro.opsiz.aka.Settings com.templaro.opsiz.aka.StraightKeyActivity
+service=
+receiver=com.templaro.opsiz.aka.BeaconSqualk

@@ -1,0 +1,4 @@
+package_name=i4nc4mp.myLock
+activity=i4nc4mp.myLock.MainPreferenceActivity i4nc4mp.myLock.AutoDismiss$AutoDismissActivity i4nc4mp.myLock.CallPrompt i4nc4mp.myLock.TouchGuard
+service=i4nc4mp.myLock.Toggler i4nc4mp.myLock.AutoDismiss i4nc4mp.myLock.BootHandler i4nc4mp.myLock.ScreenMediator
+receiver=i4nc4mp.myLock.ToggleWidget i4nc4mp.myLock.myLockBootReceiver i4nc4mp.myLock.PhoneReceiver

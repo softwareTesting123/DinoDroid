@@ -1,0 +1,6 @@
+Adb Path:/home/test/adt-bundle-linux-x86_64-20140702/sdk/platform-tools/adb
+AVD Name:testAVD
+AVD Emulator Path:/home/test/adt-bundle-linux-x86_64-20140702/sdk/tools/emulator
+AAPT Path:/home/test/adt-bundle-linux-x86_64-20140702/sdk/build-tools/android-4.4W/aapt
+Emma Path:/home/test/adt-bundle-linux-x86_64-20140702/sdk/tools/lib/emma.jar
+Time(Sec):3600

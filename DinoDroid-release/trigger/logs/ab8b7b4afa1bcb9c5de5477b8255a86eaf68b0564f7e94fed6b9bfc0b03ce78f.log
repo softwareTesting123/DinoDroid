@@ -1,0 +1,4 @@
+package_name=com.hectorone.multismssender
+activity=com.hectorone.multismssender.MultiSmsSender com.hectorone.multismssender.PhoneNumberSelection com.hectorone.multismssender.SelectGroupActivity com.hectorone.multismssender.GroupEditActivity com.hectorone.multismssender.SelectDeliveryActivity com.hectorone.multismssender.ListEntryActivity
+service=
+receiver=com.hectorone.multismssender.MessageReceiver

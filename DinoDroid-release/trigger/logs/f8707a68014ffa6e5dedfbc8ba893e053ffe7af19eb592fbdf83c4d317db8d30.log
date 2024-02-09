@@ -1,0 +1,4 @@
+package_name=demo.killerud.gestures
+activity=hiof.enigma.android.gestures.GesturesDemoActivity
+service=
+receiver=

@@ -1,0 +1,4 @@
+package_name=org.jfedor.frozenbubble
+activity=org.jfedor.frozenbubble.FrozenBubble
+service=
+receiver=

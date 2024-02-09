@@ -1,0 +1,4 @@
+package_name=ch.blinkenlights.battery
+activity=ch.blinkenlights.battery.BlinkenlightsBattery
+service=ch.blinkenlights.battery.BlinkenlightsBatteryService
+receiver=ch.blinkenlights.battery.BlinkenlightsBatteryBootReceiver

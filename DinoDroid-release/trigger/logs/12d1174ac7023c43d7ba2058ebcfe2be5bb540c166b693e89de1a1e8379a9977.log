@@ -1,0 +1,4 @@
+package_name=com.android.lolcat
+activity=com.android.lolcat.LolcatActivity
+service=
+receiver=

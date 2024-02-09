@@ -1,0 +1,4 @@
+package_name=org.wikipedia
+activity=org.wikipedia.WikipediaActivity com.phonegap.DroidGap org.wikipedia.NearMeActivity
+service=
+receiver=

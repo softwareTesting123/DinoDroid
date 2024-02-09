@@ -1,0 +1,4 @@
+package_name=net.everythingandroid.timer
+activity=net.everythingandroid.timer.TimerActivity net.everythingandroid.timer.Preferences net.everythingandroid.timer.TimerAlarmActivity
+service=
+receiver=net.everythingandroid.timer.TimerAlarmReceiver net.everythingandroid.timer.ClearAllReceiver

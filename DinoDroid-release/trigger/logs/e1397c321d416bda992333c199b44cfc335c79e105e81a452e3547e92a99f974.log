@@ -1,0 +1,4 @@
+package_name=com.irahul.worldclock
+activity=com.irahul.worldclock.WorldClockActivity com.irahul.worldclock.TimeZoneEdit
+service=
+receiver=

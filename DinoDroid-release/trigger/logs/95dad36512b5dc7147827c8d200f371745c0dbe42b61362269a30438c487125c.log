@@ -1,0 +1,4 @@
+package_name=com.example.android.musicplayer
+activity=com.example.android.musicplayer.MainActivity
+service=com.example.android.musicplayer.MusicService
+receiver=com.example.android.musicplayer.MusicIntentReceiver

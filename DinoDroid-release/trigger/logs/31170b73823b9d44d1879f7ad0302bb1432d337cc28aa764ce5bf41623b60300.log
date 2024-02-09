@@ -1,0 +1,4 @@
+package_name=net.jaqpot.netcounter
+activity=net.jaqpot.netcounter.activity.NetCounterActivity net.jaqpot.netcounter.activity.NetCounterPreferences net.jaqpot.netcounter.activity.BarGraphActivity
+service=net.jaqpot.netcounter.service.NetCounterService
+receiver=net.jaqpot.netcounter.service.OnBootReceiver net.jaqpot.netcounter.service.OnAlarmReceiver

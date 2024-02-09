@@ -1,0 +1,4 @@
+package_name=in.shick.lockpatterngenerator
+activity=in.shick.lockpatterngenerator.GeneratorActivity in.shick.lockpatterngenerator.PreferencesActivity in.shick.lockpatterngenerator.TextWallActivity
+service=
+receiver=

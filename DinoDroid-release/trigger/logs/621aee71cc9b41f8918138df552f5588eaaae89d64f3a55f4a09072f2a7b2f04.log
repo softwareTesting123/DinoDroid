@@ -1,0 +1,4 @@
+package_name=jp.gr.java_conf.hatalab.mnv
+activity=jp.gr.java_conf.hatalab.mnv.MainActivity jp.gr.java_conf.hatalab.mnv.TextEdit jp.gr.java_conf.hatalab.mnv.SelectFileName jp.gr.java_conf.hatalab.mnv.SelectDirName jp.gr.java_conf.hatalab.mnv.TemplateTextList jp.gr.java_conf.hatalab.mnv.Settings jp.gr.java_conf.hatalab.mnv.SettingAutoLink jp.gr.java_conf.hatalab.mnv.GrepActivity
+service=
+receiver=

@@ -1,0 +1,4 @@
+package_name=net.mandaria.tippytipper
+activity=net.mandaria.tippytipper.activities.TippyTipper net.mandaria.tippytipper.activities.Total net.mandaria.tippytipper.activities.SplitBill net.mandaria.tippytipper.activities.About net.mandaria.tippytipper.activities.Settings
+service=
+receiver=

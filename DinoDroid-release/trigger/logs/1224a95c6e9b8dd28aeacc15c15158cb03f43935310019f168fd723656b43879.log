@@ -1,0 +1,4 @@
+package_name=org.smerty.zooborns
+activity=org.smerty.zooborns.ZooBorns org.smerty.zooborns.FullscreenImage
+service=org.smerty.zooborns.feed.UpdateService
+receiver=org.smerty.zooborns.BootReceiver

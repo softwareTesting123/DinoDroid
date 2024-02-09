@@ -1,0 +1,4 @@
+package_name=com.angrydoughnuts.android.alarmclock
+activity=com.angrydoughnuts.android.alarmclock.ActivityAlarmClock com.angrydoughnuts.android.alarmclock.ActivityAlarmNotification com.angrydoughnuts.android.alarmclock.ActivityAlarmSettings com.angrydoughnuts.android.alarmclock.ActivityAppSettings com.angrydoughnuts.android.alarmclock.ActivityPendingAlarms
+service=com.angrydoughnuts.android.alarmclock.AlarmClockService com.angrydoughnuts.android.alarmclock.NotificationService
+receiver=com.angrydoughnuts.android.alarmclock.ReceiverAlarm com.angrydoughnuts.android.alarmclock.ReceiverNotificationRefresh com.angrydoughnuts.android.alarmclock.ReceiverDeviceBoot com.angrydoughnuts.android.alarmclock.RecevierTimeZoneChange

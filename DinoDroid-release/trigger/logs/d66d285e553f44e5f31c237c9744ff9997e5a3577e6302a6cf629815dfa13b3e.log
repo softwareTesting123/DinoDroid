@@ -1,0 +1,4 @@
+package_name=com.example.anycut
+activity=com.example.anycut.FrontDoorActivity com.example.anycut.CreateShortcutActivity com.example.anycut.ActivityPickerActivity com.example.anycut.CustomShortcutCreatorActivity
+service=
+receiver=

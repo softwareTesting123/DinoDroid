@@ -1,0 +1,4 @@
+package_name=org.jtb.alogcat
+activity=org.jtb.alogcat.LogActivity org.jtb.alogcat.PrefsActivity
+service=org.jtb.alogcat.SaveService org.jtb.alogcat.ShareService
+receiver=org.jtb.alogcat.SaveReceiver org.jtb.alogcat.ShareReceiver

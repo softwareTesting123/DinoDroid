@@ -1,0 +1,4 @@
+package_name=com.bwx.bequick
+activity=com.bwx.bequick.ShowSettingsActivity com.bwx.bequick.DialogSettingsActivity com.bwx.bequick.MainSettingsActivity com.bwx.bequick.LayoutSettingsActivity com.bwx.bequick.preferences.CommonPrefs com.bwx.bequick.preferences.BrightnessPrefs com.bwx.bequick.preferences.MobileDataApnPrefs com.bwx.bequick.preferences.MobileDataPrefs com.bwx.bequick.preferences.GpsPrefs com.bwx.bequick.preferences.AirplaneModePrefs com.bwx.bequick.flashlight.ScreenLightActivity
+service=
+receiver=com.bwx.bequick.flashlight.LedFlashlightReceiver com.bwx.bequick.receivers.StatusBarIntegrationReceiver

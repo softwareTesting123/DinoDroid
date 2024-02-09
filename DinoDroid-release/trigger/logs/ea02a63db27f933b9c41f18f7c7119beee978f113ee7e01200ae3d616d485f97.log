@@ -1,0 +1,4 @@
+package_name=org.jessies.dalvikexplorer
+activity=org.jessies.dalvikexplorer.DalvikExplorerActivity org.jessies.dalvikexplorer.BuildActivity org.jessies.dalvikexplorer.CharsetsActivity org.jessies.dalvikexplorer.CharsetActivity org.jessies.dalvikexplorer.DeviceActivity org.jessies.dalvikexplorer.EnvironmentVariablesActivity org.jessies.dalvikexplorer.FileSystemsActivity org.jessies.dalvikexplorer.FileSystemActivity org.jessies.dalvikexplorer.FileViewerActivity org.jessies.dalvikexplorer.LocalesActivity org.jessies.dalvikexplorer.LocaleCountriesActivity org.jessies.dalvikexplorer.LocaleActivity org.jessies.dalvikexplorer.SystemPropertiesActivity org.jessies.dalvikexplorer.TimeZonesActivity org.jessies.dalvikexplorer.TimeZoneActivity
+service=org.jessies.dalvikexplorer.BuildWidget$UpdateService
+receiver=org.jessies.dalvikexplorer.BuildWidget

@@ -1,0 +1,4 @@
+package_name=com.everysoft.autoanswer
+activity=com.everysoft.autoanswer.AutoAnswerPreferenceActivity
+service=com.everysoft.autoanswer.AutoAnswerIntentService
+receiver=com.everysoft.autoanswer.AutoAnswerReceiver com.everysoft.autoanswer.AutoAnswerBootReceiver

@@ -1,0 +1,4 @@
+package_name=jp.sblo.pandora.aGrep
+activity=jp.sblo.pandora.aGrep.Settings jp.sblo.pandora.aGrep.Search jp.sblo.pandora.aGrep.TextViewer jp.sblo.pandora.aGrep.FileSelectorActivity jp.sblo.pandora.aGrep.OptionActivity
+service=
+receiver=

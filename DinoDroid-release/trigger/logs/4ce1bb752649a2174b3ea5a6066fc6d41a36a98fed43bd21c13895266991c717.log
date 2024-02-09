@@ -1,0 +1,4 @@
+package_name=com.smorgasbork.hotdeath
+activity=com.smorgasbork.hotdeath.Main com.smorgasbork.hotdeath.GameActivity com.smorgasbork.hotdeath.Prefs
+service=
+receiver=

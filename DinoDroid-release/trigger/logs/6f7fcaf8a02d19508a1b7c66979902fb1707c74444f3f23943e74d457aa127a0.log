@@ -1,0 +1,4 @@
+package_name=es.senselesssolutions.gpl.weightchart
+activity=es.senselesssolutions.gpl.weightchart.ChartActivity es.senselesssolutions.gpl.weightchart.EntryActivity es.senselesssolutions.gpl.weightchart.EntryListActivity es.senselesssolutions.gpl.weightchart.LegendActivity es.senselesssolutions.gpl.weightchart.PreferencesActivity
+service=
+receiver=

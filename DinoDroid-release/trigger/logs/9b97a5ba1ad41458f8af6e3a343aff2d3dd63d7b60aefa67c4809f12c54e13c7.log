@@ -1,0 +1,4 @@
+package_name=com.addi
+activity=com.addi.Addi com.addi.AddiIntent com.addi.AddiEdit com.addi.ShowSettingsActivity
+service=
+receiver=

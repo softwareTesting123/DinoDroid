@@ -1,0 +1,4 @@
+package_name=com.beust.android.translate
+activity=com.beust.android.translate.TranslateActivity com.beust.android.translate.HistoryActivity
+service=com.beust.android.translate.TranslateService
+receiver=

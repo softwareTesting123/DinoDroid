@@ -1,0 +1,4 @@
+package_name=com.teleca.jamendo
+activity=com.teleca.jamendo.activity.HomeActivity com.teleca.jamendo.activity.AlbumActivity com.teleca.jamendo.activity.PlayerActivity com.teleca.jamendo.activity.SearchActivity com.teleca.jamendo.activity.SettingsActivity com.teleca.jamendo.activity.ArtistActivity com.teleca.jamendo.activity.PlaylistActivity com.teleca.jamendo.activity.BrowsePlaylistActivity com.teleca.jamendo.activity.RadioActivity com.teleca.jamendo.activity.DownloadActivity com.teleca.jamendo.activity.StarredAlbumsActivity com.teleca.jamendo.activity.IntentDistributorActivity com.teleca.jamendo.activity.EqualizerActivity com.teleca.jamendo.activity.SplashscreenActivity
+service=com.teleca.jamendo.service.PlayerService com.teleca.jamendo.service.DownloadService
+receiver=

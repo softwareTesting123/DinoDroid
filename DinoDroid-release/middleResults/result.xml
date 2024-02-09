@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy rotation="0">
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.nloko.android.syncmypix" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][768,1184]">
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.nloko.android.syncmypix" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,0][768,1184]">
+      <node index="0" text="" resource-id="android:id/title_container" class="android.widget.RelativeLayout" package="com.nloko.android.syncmypix" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,50][768,100]">
+        <node index="0" text="Login to Facebook" resource-id="android:id/title" class="android.widget.TextView" package="com.nloko.android.syncmypix" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[8,51][718,97]" />
+        <node index="1" text="" resource-id="android:id/progress_horizontal" class="android.widget.ProgressBar" package="com.nloko.android.syncmypix" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[12,55][718,95]" />
+        <node index="2" text="" resource-id="android:id/progress_circular" class="android.widget.ProgressBar" package="com.nloko.android.syncmypix" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[728,59][760,91]" />
+      </node>
+      <node index="1" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.nloko.android.syncmypix" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,100][768,1184]">
+        <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.nloko.android.syncmypix" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" bounds="[0,100][768,1184]" />
+      </node>
+    </node>
+  </node>
+</hierarchy>

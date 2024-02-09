@@ -1,0 +1,4 @@
+package_name=hu.vsza.adsdroid
+activity=hu.vsza.adsdroid.SearchPanel hu.vsza.adsdroid.PartList
+service=
+receiver=

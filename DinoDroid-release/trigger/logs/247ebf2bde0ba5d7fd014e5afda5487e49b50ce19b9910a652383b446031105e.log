@@ -1,0 +1,4 @@
+package_name=edu.killerud.fileexplorer
+activity=edu.killerud.fileexplorer.ExplorerActivity
+service=
+receiver=

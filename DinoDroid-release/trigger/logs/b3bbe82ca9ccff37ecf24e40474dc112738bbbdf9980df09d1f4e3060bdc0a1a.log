@@ -1,0 +1,4 @@
+package_name=com.android.keepass
+activity=com.android.keepass.KeePass com.keepassdroid.fileselect.FileSelectActivity com.keepassdroid.PasswordActivity com.keepassdroid.GroupActivityV3 com.keepassdroid.GroupActivityV4 com.keepassdroid.EntryActivity com.keepassdroid.EntryActivityV4 com.keepassdroid.LockingActivity com.keepassdroid.EntryEditActivity com.keepassdroid.GroupEditActivity com.keepassdroid.IconPickerActivity com.keepassdroid.search.SearchResults com.keepassdroid.settings.AppSettingsActivity com.keepassdroid.GeneratePasswordActivity
+service=com.keepassdroid.services.TimeoutService
+receiver=

@@ -1,0 +1,4 @@
+package_name=org.totschnig.myexpenses
+activity=org.totschnig.myexpenses.MyExpenses org.totschnig.myexpenses.ExpenseEdit org.totschnig.myexpenses.AccountEdit org.totschnig.myexpenses.MethodEdit org.totschnig.myexpenses.SelectCategory org.totschnig.myexpenses.ManageAccounts org.totschnig.myexpenses.Backup org.totschnig.myexpenses.GrisbiImport org.totschnig.myexpenses.MyPreferenceActivity org.totschnig.myexpenses.ManageParties org.totschnig.myexpenses.ManageTemplates org.totschnig.myexpenses.ManageMethods
+service=
+receiver=

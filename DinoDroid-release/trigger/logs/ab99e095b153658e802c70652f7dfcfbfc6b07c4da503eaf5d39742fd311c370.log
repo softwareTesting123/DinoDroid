@@ -1,0 +1,4 @@
+package_name=com.gluegadget.hndroid
+activity=com.gluegadget.hndroid.Main com.gluegadget.hndroid.Comments com.gluegadget.hndroid.Submissions com.gluegadget.hndroid.KarmaWidgetConfigurationActivity com.gluegadget.hndroid.Preferences
+service=com.gluegadget.hndroid.KarmaWidget$UpdateService
+receiver=com.gluegadget.hndroid.KarmaWidget

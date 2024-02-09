@@ -1,0 +1,4 @@
+package_name=de.homac.Mirrored
+activity=de.homac.Mirrored.ArticlesList de.homac.Mirrored.CategoriesList de.homac.Mirrored.ArticleViewer de.homac.Mirrored.Preferences
+service=
+receiver=

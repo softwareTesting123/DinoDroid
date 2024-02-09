@@ -1,0 +1,4 @@
+package_name=net.sf.andbatdog.batterydog
+activity=net.sf.andbatdog.batterydog.BatteryDog net.sf.andbatdog.batterydog.BatteryGraph
+service=net.sf.andbatdog.batterydog.BatteryDog_Service
+receiver=

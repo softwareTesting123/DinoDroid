@@ -1,0 +1,4 @@
+package_name=com.nloko.android.syncmypix
+activity=com.nloko.android.syncmypix.MainActivity com.nloko.android.syncmypix.SettingsActivity com.nloko.android.syncmypix.SyncProgressActivity com.nloko.android.syncmypix.facebook.FacebookLoginWebView com.nloko.android.syncmypix.graphics.CropImage com.nloko.android.syncmypix.SyncResultsActivity com.nloko.android.syncmypix.DonateActivity
+service=com.nloko.android.syncmypix.facebook.FacebookSyncService
+receiver=com.nloko.android.syncmypix.SyncMyPixBroadcastReceiver

@@ -1,0 +1,4 @@
+package_name=a2dp.Vol
+activity=a2dp.Vol.main a2dp.Vol.ManageData a2dp.Vol.Preferences a2dp.Vol.EditDevice a2dp.Vol.ListViewer a2dp.Vol.AppChooser a2dp.Vol.CustomIntentMaker a2dp.Vol.ProviderList
+service=a2dp.Vol.service a2dp.Vol.ALauncher a2dp.Vol.StoreLoc a2dp.Vol.Changed
+receiver=a2dp.Vol.Starter a2dp.Vol.Widget

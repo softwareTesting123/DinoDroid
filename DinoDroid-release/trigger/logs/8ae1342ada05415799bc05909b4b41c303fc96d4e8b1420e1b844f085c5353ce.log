@@ -1,0 +1,4 @@
+package_name=org.dnaq.dialer2
+activity=org.dnaq.dialer2.DialerActivity org.dnaq.dialer2.ContactViewDialog org.dnaq.dialer2.SelectNumberDialog org.dnaq.dialer2.SelectSpeedDialSlotDialog org.dnaq.dialer2.DialerPreferenceActivity
+service=
+receiver=

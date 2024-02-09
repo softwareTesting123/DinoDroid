@@ -1,0 +1,4 @@
+package_name=org.waxworlds.edam.importcontacts
+activity=org.waxworlds.edam.importcontacts.Intro org.waxworlds.edam.importcontacts.ConfigureVCF org.waxworlds.edam.importcontacts.Merge org.waxworlds.edam.importcontacts.Doit
+service=
+receiver=

@@ -1,0 +1,4 @@
+package_name=com.google.android.photostream
+activity=com.google.android.photostream.LoginActivity com.google.android.photostream.PhotostreamActivity com.google.android.photostream.ViewPhotoActivity com.google.android.photostream.SettingsActivity
+service=com.google.android.photostream.CheckUpdateService
+receiver=com.google.android.photostream.BootReceiver

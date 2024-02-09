@@ -1,0 +1,4 @@
+package_name=be.ppareit.swiftp_free
+activity=be.ppareit.swiftp_free.gui.ServerPreferenceActivity be.ppareit.swiftp_free.ConfigureActivity
+service=be.ppareit.swiftp_free.FTPServerService
+receiver=

@@ -1,0 +1,4 @@
+package_name=net.fercanet.LNM
+activity=net.fercanet.LNM.MainMenu net.fercanet.LNM.Game net.fercanet.LNM.Hof net.fercanet.LNM.Settings
+service=
+receiver=

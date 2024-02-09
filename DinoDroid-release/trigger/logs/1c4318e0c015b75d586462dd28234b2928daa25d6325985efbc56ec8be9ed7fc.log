@@ -1,0 +1,4 @@
+package_name=de.freewarepoint.whohasmystuff
+activity=de.freewarepoint.whohasmystuff.ListLentObjects de.freewarepoint.whohasmystuff.AddObject de.freewarepoint.whohasmystuff.ShowHistory
+service=
+receiver=

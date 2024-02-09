@@ -1,0 +1,4 @@
+package_name=caldwell.ben.bites
+activity=caldwell.ben.bites.Bites caldwell.ben.bites.RecipeList caldwell.ben.bites.IngredientList caldwell.ben.bites.MethodList caldwell.ben.bites.BitesPreferences
+service=
+receiver=caldwell.ben.bites.SmsReceiver

@@ -1,0 +1,4 @@
+package_name=com.kvance.Nectroid
+activity=com.kvance.Nectroid.NectroidActivity com.kvance.Nectroid.SettingsActivity com.kvance.Nectroid.PlaylistActivity com.kvance.Nectroid.SiteActivity com.kvance.Nectroid.StreamsActivity com.kvance.Nectroid.AboutActivity
+service=com.kvance.Nectroid.PlayerService
+receiver=

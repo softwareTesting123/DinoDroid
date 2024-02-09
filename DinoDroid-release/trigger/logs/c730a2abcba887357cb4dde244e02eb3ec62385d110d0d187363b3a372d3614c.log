@@ -1,0 +1,4 @@
+package_name=com.chmod0.manpages
+activity=com.chmod0.manpages.ManualActivity com.chmod0.manpages.BrowserActivity
+service=
+receiver=

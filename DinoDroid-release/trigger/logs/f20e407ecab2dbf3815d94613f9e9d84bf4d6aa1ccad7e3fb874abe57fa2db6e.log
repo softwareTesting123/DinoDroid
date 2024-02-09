@@ -1,0 +1,4 @@
+package_name=org.tomdroid
+activity=org.tomdroid.ui.Tomdroid org.tomdroid.ui.ViewNote org.tomdroid.ui.Search org.tomdroid.ui.PreferencesActivity
+service=
+receiver=
