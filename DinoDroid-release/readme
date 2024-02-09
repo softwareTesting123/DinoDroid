@@ -1,7 +1,10 @@
+All of the source code of the DinoDroid release is in our provided virtual machine.
+Highly recommend running DinoDroid in the configured virtual machine first.
+
 ###############welcome to use DinoDroid
 
 
-Please set android path in settings.
+Please set the Android path in settings.
 
 Take the app source codes into /dataset/unfinished
 The finished app source codes will be automated moved to /dataset/finished 
@@ -10,7 +13,7 @@ The finished app source codes will be automated moved to /dataset/finished
 How to run:
 
 Train:
-clean up all of models in /model
+clean up all of the models in /model
 run
 python RunTrain.py
 
@@ -48,10 +51,10 @@ Users may use them to understand how our model works.
 
 
 ###############log
-In default setting, log is closed.
+In the default setting, the log is closed.
 
-Log folder records the model of every training and testing.
-It also records the code coverage to every iteration.
+The Log folder records the model of every training and testing.
+It also records the code coverage for every iteration.
 
 
 ##############event flow graph
