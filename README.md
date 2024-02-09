@@ -76,12 +76,12 @@ Notice that the emulator in VirtualBox is much slower than a physical machine. S
 The dataset is at https://drive.google.com/file/d/18CiCNq04uKsKUqjKialc15OFDVE0JRa_/view?usp=sharing
 
 Training and testing data set:
-We conducted a two-fold cross-validation by randomly splitting the entire dataset of 64 apps into
-two sets, each containing 32 apps. The [Google Drive](https://drive.google.com/file/d/18CiCNq04uKsKUqjKialc15OFDVE0JRa_/view?usp=sharing) has two folders: "half-1" and "half-2". Each of them includes 32 apps and 64 apps in total.
+Training and Testing Dataset Overview:
+We implemented a two-fold cross-validation strategy to ensure a comprehensive evaluation of our model. The dataset, comprising 64 applications, was evenly divided into two subsets: "half-1" and "half-2", with each subset containing 32 applications. This division is organized within the [Google Drive](https://drive.google.com/file/d/18CiCNq04uKsKUqjKialc15OFDVE0JRa_/view?usp=sharing) link provided, where two folders corresponding to each half can be found, cumulatively accounting for the total dataset.
 
 In the training and testing process, we randomly selected one set as the training set (e.g., "half-1") and used the other set (e.g., "half-2") as the testing set. Subsequently, in the next fold, we reversed the roles, using the first set as the testing set  (e.g., "half-1") and the second set (e.g., "half-2") as the training set. This approach ensures that each app in the dataset has an opportunity to be both in the training and testing sets, enhancing the robustness of our evaluation.
 
-All of the apps in the dataset are from [AndroTest](http://bear.cc.gatech.edu/~shauvik/androtest/).
+All the apps in the dataset are from [AndroTest](http://bear.cc.gatech.edu/~shauvik/androtest/).
 
 # Pre-requirements of Tool
 
