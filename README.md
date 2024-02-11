@@ -84,6 +84,14 @@ We implemented a two-fold cross-validation strategy to ensure a comprehensive ev
 
 In the training and testing process, we randomly selected one set as the training set (e.g., "half-1") and used the other set (e.g., "half-2") as the testing set. Subsequently, in the next fold, we reversed the roles, using the first set as the testing set  (e.g., "half-1") and the second set (e.g., "half-2") as the training set. This approach ensures that each app in the dataset has an opportunity to be both in the training and testing sets, enhancing the robustness of our evaluation.
 
+## Meta Data
+
+Our study uses Android apps from a benchmark highlighted in "Automated Test Input Generation for Android: Are We There Yet?", a key reference in the Android testing field adopted by tools like [Sapienz](https://github.com/Rhapsod/sapienz) and [Stoat](https://github.com/tingsu/Stoat). We instrument these apps with Emma for code coverage data. Our approach handles diverse interactions-clicks, long-clicks, swipes, edits, back, and restarts—via the [UI Automator](https://github.com/xiaocong/uiautomator) on emulators. Widget features and their Q values, based on equation (1), are dynamically identified during app interactions, enriching the learning mechanism.
+
+Our reinforcement learning model, detailed in Section 3, employs a history buffer size of 4 and uses the Adam optimizer with a 0.0001 learning rate. It features a 0.6 refactor rate and an 
+$\varepsilon$-greedy policy, with 
+$\varepsilon$ at 0.2. Reward-wise, we use -2 for negative outcomes and 5 for positive ones.
+
 
 # Pre-requirements of Tool
 
