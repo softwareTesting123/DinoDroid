@@ -216,7 +216,3 @@ Two trained models (train 32 apps for each) can be used directly to and run test
 One is [here](https://drive.google.com/file/d/1GzWX9OeAC4vnuMyHA6eBq3yOSShhRoFX/view?usp=sharing). 
 
 The other one is [here](https://drive.google.com/file/d/1WMe_ViO0H5jA29-Lz66pwwUTK8jYw_Md/view?usp=sharing).
-
-## CopyRight
-The creator reserves the whole copyright of this project and its modified versions.
-Any commercial usage needs to contact the creator.
