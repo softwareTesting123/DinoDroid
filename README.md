@@ -2,7 +2,8 @@
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-[![DOI](https://zenodo.org/badge/145784057.svg)](https://zenodo.org/badge/latestdoi/145784057)
+[![DOI](https://zenodo.org/badge/290052191.svg)](https://zenodo.org/doi/10.5281/zenodo.10689594)
+
 
 DinoDroid is a software tool to automatically test android crashes.
 
